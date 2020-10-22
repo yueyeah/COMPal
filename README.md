@@ -1,4 +1,4 @@
-# COMPal
+# COMPal  
 
 **Note:** This is not the version submitted for grading. 
 Please switch to the [submitted branch](https://github.com/AY1920S1-CS2113T-W17-1/COMPal/tree/submitted) to view the actual features submitted.
